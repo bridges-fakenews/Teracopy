@@ -208,4 +208,4 @@ TeraCopy is available as a full free version with all features and updates inclu
 Don't miss out on the chance to simplify your file transfers. Download TeraCopy today and experience the difference!
 
 ---
-**Last updated:** 2026-09-25 23:45:43 UTC
+**Last updated:** 2026-09-26 02:49:43 UTC
